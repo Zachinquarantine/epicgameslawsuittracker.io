@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Epic Games Lawsuit Tracker
 
-You can use the [editor on GitHub](https://github.com/Zachinquarantine/epiclawsuit.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use check out our app that is [coming soon](https://google.ca) if you aren't on PC or if you want a really small screen, for some reason.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
